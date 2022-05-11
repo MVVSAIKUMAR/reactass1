@@ -1,7 +1,6 @@
-import React from 'react'
-import functional from './functional'
+import React, { Component } from 'react'
 
-export default class class extends functional {
+export default class Component2 extends Component {
   render() {
     return (
         <div id="box2"><h2>This is created using Class Component</h2><br/>

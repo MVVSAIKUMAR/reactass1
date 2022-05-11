@@ -1,6 +1,6 @@
 import React from 'react'
 
-const  functional = () => {
+const functional = () => {
   return (
     <div id="box1"><h2>This is created using Functional Component</h2><br/>
     <h3>This is done using external CSS</h3><br/>

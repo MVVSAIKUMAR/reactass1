@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    background-image: linear-gradient(lightblue,lightpink);
+    height: 98vh;
+    padding-top: 20px;
+}
+.btn1{
+    height: 50px;
+    width: 250px;
+    background-color: lightblue;
+    border-radius: 30px;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+.btn1:hover{
+    background-color: aqua;
+}
+.btn2{
+    height: 50px;
+    width: 250px;
+    background-color: lightblue;
+    border-radius: 30px;
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
+.btn2:hover{
+    background-color: aqua;
+}
+#box1{
+    height: 300px;
+    width: 400px;
+    border-radius:30px;
+    background-color: aqua;
+    position: absolute;
+    top: 250px;
+    left: 200px;
+    border: 2px solid black;
+    padding-top: 20px;
+}
+#box2{
+    height: 300px;
+    width: 400px;
+    border-radius:30px;
+    background-color: lawngreen;
+    position: absolute;
+    top: 250px;
+    left: 800px;
+    border: 2px solid black;
+    padding-top: 20px;
+}
+h1{
+    text-shadow: 0 0 5px black ,0 0 5px brown;
+}
+h3{
+    color: black;
+}
